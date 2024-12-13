@@ -1,0 +1,58 @@
+body{
+    background-color: rgba(105, 105, 105, 0.193);
+    justify-items: center;
+}
+.container{
+    background-color: antiquewhite;
+    width: 37rem;
+    height: 30rem; 
+    margin-top: 60px; 
+    justify-items: center;
+
+}
+ .profile-picture{
+    margin: 0%;
+    padding: 0%;
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    margin-top: 10px;
+    border: 1px solid blue;
+   }
+
+   .pics{
+    width:50px;
+    height: 50px;
+    border-radius: 25px;
+
+   }
+.write-words{
+    font-size: small;
+    font-weight: bold;
+}
+
+.h1{
+    font-size: large;
+}
+.end{
+    font: xx-small;
+    justify-items: center;
+    margin-top: 20px;
+}
+.foot{
+display:flex;
+justify-content: space-between;
+
+}
+.link{
+    text-decoration: none;
+    color:blue;
+  display: inline-block;
+    inline-size: 5rem;
+align-content: center; 
+
+ 
+}
+
+
+    
